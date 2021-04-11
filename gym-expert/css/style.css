@@ -190,6 +190,7 @@ ul,li{
 img{
 	display:inline-block;
 	max-width:100%;
+	align-items: center;
 }
 
 .theme-btn{
@@ -1937,7 +1938,7 @@ img{
 	left:120%;
 	top:0%;
 	width:230px;
-	z-index:100;
+	z-index:100; 
 	display:none;
 	transition: all 900ms ease;
     -moz-transition: all 900ms ease;
