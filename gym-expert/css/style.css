@@ -165,7 +165,7 @@ h6{
 
 .auto-container{
 	position:static;
-	max-width:1200px;
+	max-width:1300px;
 	padding:0px 15px;
 	margin:0 auto;
 }
@@ -900,7 +900,7 @@ img{
 
 img{
 	display:inline-block;
-	max-width:100%;
+	max-width:80%;
 	height:auto;	
 }
 
@@ -5473,7 +5473,7 @@ img{
     opacity: 0.20;
     font-size: 180px;
     color: transparent;
-    font-weight: 700;
+    font-weight: 500;
     transform: rotate(-90deg);
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #ffffff;
@@ -5524,7 +5524,7 @@ img{
 	position:relative;
 	color:#222222;
 	width:168px;
-	height:60px;
+	height:73.5px;
 	line-height:60px;
 	font-weight:700;
 	margin-bottom:12px;
@@ -5539,7 +5539,7 @@ img{
 
 .timetable-section .timetable-tabs{
 	position:relative;
-	padding-left:188px;
+	padding-left:200px;
 }
 
 .timetable-section .timetable-tabs .tab-btns{
@@ -5611,7 +5611,7 @@ img{
 .timetable-section .timetable-tabs .tabs-content .time-box{
 	position:relative;
 	width:130px;
-	height:90px;
+	height:75px;
 	float:left;
 	margin-right:12px;
 	margin-bottom:10px;
