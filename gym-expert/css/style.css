@@ -5558,6 +5558,7 @@ img {
   position: relative;
   overflow: hidden;
   padding: 110px 0px 110px;
+	background: url('../images/background/footer-1.png');
 }
 
 .timetable-section .side-text {
@@ -6132,6 +6133,7 @@ img {
   background-position: left center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-image: url('../images/background/footer-2.jpg');
 }
 
 .main-footer .boxed-pattern-layer {
